@@ -24,7 +24,7 @@ typedef struct dir
 }dir_t;
 
 
-std::string version = "1.0";
+std::string version = "1.0.0";
 
 void printHelp();
 void printVersion();
